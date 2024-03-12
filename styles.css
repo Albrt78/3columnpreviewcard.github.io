@@ -8,6 +8,7 @@
 
 body {
   padding-inline: 16.3rem;
+  background-color: $Transparent-white;
 }
 body main .card__wrapper {
   display: grid;
