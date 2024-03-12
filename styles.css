@@ -8,7 +8,7 @@
 
 body {
   padding-inline: 16.3rem;
-  background-color: hsla(0, 0%, 100%, 0.75);
+  background-color: hsl(0, 0%, 95%);
 }
 body main .card__wrapper {
   display: grid;
@@ -33,7 +33,7 @@ body main .card__wrapper .sedan__card h1 {
   text-transform: uppercase;
 }
 body main .card__wrapper .sedan__card p {
-  color: hsl(0, 0%, 95%);
+  color: hsla(0, 0%, 100%, 0.75);
   margin-top: 1.65rem;
   line-height: 1.65;
   font-size: 0.94rem;
@@ -72,7 +72,7 @@ body main .card__wrapper .suvs__card h1 {
   text-transform: uppercase;
 }
 body main .card__wrapper .suvs__card p {
-  color: hsl(0, 0%, 95%);
+  color: hsla(0, 0%, 100%, 0.75);
   margin-top: 1.65rem;
   line-height: 1.65;
   font-size: 0.94rem;
@@ -113,7 +113,7 @@ body main .card__wrapper .luxury__card h1 {
   text-transform: uppercase;
 }
 body main .card__wrapper .luxury__card p {
-  color: hsl(0, 0%, 95%);
+  color: hsla(0, 0%, 100%, 0.75);
   margin-top: 1.65rem;
   line-height: 1.65;
   font-size: 0.94rem;
