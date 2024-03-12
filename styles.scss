@@ -180,30 +180,6 @@ body {
         padding-inline: 10rem;
     }
 
-    @media (max-width: 1100.98px) {
-        main {
-            .card__wrapper {
-                .sedan__card {
-                    button {
-                        margin-top: 2rem;
-                    }
-                }
-
-                .suvs__card {
-                    button {
-                        margin-top: 2rem;
-                    }
-                }
-
-                .luxury__card {
-                    button {
-                        margin-top: 2rem;
-                    }
-                }
-            }
-        }
-    }
-
     @media (max-width: 995.98px) {
         main {
             .card__wrapper {
@@ -260,5 +236,9 @@ body {
 
     @media (max-width: 768.98px) {
         padding-inline: 3rem;
+    }
+
+    @media (max-width: 576.98px) {
+        padding-inline: 1rem;
     }
 }
