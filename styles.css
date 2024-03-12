@@ -150,17 +150,6 @@ body .attribution a {
     padding-inline: 10rem;
   }
 }
-@media (max-width: 1100.98px) {
-  body main .card__wrapper .sedan__card button {
-    margin-top: 2rem;
-  }
-  body main .card__wrapper .suvs__card button {
-    margin-top: 2rem;
-  }
-  body main .card__wrapper .luxury__card button {
-    margin-top: 2rem;
-  }
-}
 @media (max-width: 995.98px) {
   body main .card__wrapper {
     grid-template-columns: 1fr;
@@ -206,5 +195,10 @@ body .attribution a {
 @media (max-width: 768.98px) {
   body {
     padding-inline: 3rem;
+  }
+}
+@media (max-width: 576.98px) {
+  body {
+    padding-inline: 1rem;
   }
 }/*# sourceMappingURL=styles.css.map */
