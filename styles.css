@@ -32,7 +32,7 @@ body main .card__wrapper .sedan__card h1 {
   text-transform: uppercase;
 }
 body main .card__wrapper .sedan__card p {
-  color: #000;
+  color: hsl(0, 0%, 95%);
   margin-top: 1.65rem;
   line-height: 1.65;
   font-size: 0.94rem;
@@ -71,7 +71,7 @@ body main .card__wrapper .suvs__card h1 {
   text-transform: uppercase;
 }
 body main .card__wrapper .suvs__card p {
-  color: #000;
+  color: hsl(0, 0%, 95%);
   margin-top: 1.65rem;
   line-height: 1.65;
   font-size: 0.94rem;
@@ -112,7 +112,7 @@ body main .card__wrapper .luxury__card h1 {
   text-transform: uppercase;
 }
 body main .card__wrapper .luxury__card p {
-  color: #000;
+  color: hsl(0, 0%, 95%);
   margin-top: 1.65rem;
   line-height: 1.65;
   font-size: 0.94rem;
