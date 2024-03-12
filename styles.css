@@ -8,7 +8,7 @@
 
 body {
   padding-inline: 16.3rem;
-  background-color: $Transparent-white;
+  background-color: hsla(0, 0%, 100%, 0.75);
 }
 body main .card__wrapper {
   display: grid;
