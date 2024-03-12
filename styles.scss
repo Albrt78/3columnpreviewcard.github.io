@@ -17,7 +17,7 @@ $Very-light-gray: hsl(0, 0%, 95%); //background, headings, buttons
 
 body {
     padding-inline: 16.3rem;
-    background-color: $Transparent-white;
+    background-color: $Very-light-gray;
 
     main {
         .card__wrapper {
@@ -44,7 +44,7 @@ body {
                 }
 
                 p {
-                    color: $Very-light-gray;
+                    color: $Transparent-white;
                     margin-top: 1.65rem;
                     line-height: 1.65;
                     font-size: 0.94rem;
@@ -89,7 +89,7 @@ body {
                 }
 
                 p {
-                    color: $Very-light-gray;
+                    color: $Transparent-white;
                     margin-top: 1.65rem;
                     line-height: 1.65;
                     font-size: 0.94rem;
@@ -136,7 +136,7 @@ body {
                 }
 
                 p {
-                    color: $Very-light-gray;
+                    color: $Transparent-white;
                     margin-top: 1.65rem;
                     line-height: 1.65;
                     font-size: 0.94rem;
